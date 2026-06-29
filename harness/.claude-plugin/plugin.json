@@ -1,7 +1,6 @@
 {
   "name": "harness",
-  "description": "직접 만드는 멀티에이전트 지휘자. spec→breakdown→tdd→@bug-hunter→@qa-tester를 순서대로 강제하는 orchestrate 스킬 + 읽기전용 감사 서브에이전트 + .env 차단 hook. '오케스트레이터를 직접 짓는다' 실습의 레퍼런스 완성본.",
-  "version": "1.0.0",
-  "author": { "name": "Multi-Agent Orchestration Course" },
-  "license": "MIT"
+  "version": "0.2.0",
+  "description": "멀티에이전트 오케스트레이터 — planner·coder·reviewer·tester를 순서대로 지휘하고 worktree로 병렬 구현하는 하네스 (워크숍 정답 패키지)",
+  "author": "harness-lab"
 }
